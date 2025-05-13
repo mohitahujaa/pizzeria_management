@@ -1,0 +1,17 @@
+ing_id,ing_name,ing_weight,ing_meas,ing_price
+ING001,Pizza dough ball(8 pack),490.57,grams,2.17
+ING002,Tomato sauce,335.71,grams,1.59
+ING003,Mozzarella Cheese,247.41,grams,5.42
+ING004,Dried Oregano,471.68,grams,3.35
+ING005,Spicy salami,176.99,grams,4.72
+ING006,Chilli pepper,145.3,grams,8.54
+ING007,Eggplant,159.95,grams,8.22
+ING008,Parmesan cheese,476.84,grams,3.11
+ING009,Pepperoni,204.83,grams,4.75
+ING010,Pineapple,127.91,grams,6.43
+ING011,Chocolate icecream,320.69,grams,5.35
+ING012,Pistachio icecream,178.06,grams,9.63
+ING013,Coca Cola,1500,cl,50
+ING014,7 UP,1500,cl,50
+ING015,SIDES,1,no,9
+ING016,DESSERT,1,no,10

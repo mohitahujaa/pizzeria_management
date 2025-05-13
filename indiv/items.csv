@@ -1,0 +1,21 @@
+item_id,sku,item_name,item_cat,item_size,item_price
+it01,PIZZ-PEPP-R,Pepperoni Pizza,Pizza,Regular,14.62
+it02,PIZZ-PEPP-L,Pepperoni Pizza,Pizza,Large,17.5
+it03,PIZZ-MEAT-R,Meat Feast Pizza,Pizza,Regular,11.63
+it04,PIZZ-MEAT-R,Meat Feast Pizza,Pizza,Large,19.4
+it05,PIZZ-HAWA-R,Hawaiian Pizza,Pizza,Regular,14.81
+it06,PIZZ-HAWA-L,Hawaiian Pizza,Pizza,Large,7.56
+it07,PIZZ-MARG-R,Margherita Pizza,Pizza,Regular,17.91
+it08,PIZZ-MARG-L,Margherita Pizza,Pizza,Large,11.8
+it09,PIZZ-VEGG-R,Veggie Pizza,Pizza,Regular,13.99
+it10,PIZZ-VEGG-L,Veggie Pizza,Pizza,Large,11.41
+it11,PIZZ-BBQC-R,BBQ Chicken Pizza,Pizza,Regular,12.84
+it12,PIZZ-BBQC-L,BBQ Chicken Pizza,Pizza,Large,6.22
+it13,BEVE-CC-R1500,Coca Cola,Beverage,150cl,60
+it14,BEVE-7U-33,7 UP,Beverage,33cl,12.29
+it15,SIDE-GARL-R,Garlic Bread,Side,Regular,10.4
+it16,SIDE-GARL-L,Chicken Wings,Side,Regular,13.09
+it17,SIDE-BREA-R,Breadsticks,Side,Regular,7
+it18,DESS-CHOC-R,Chocolate Icecream,Dessert,Regular,11.83
+it19,DESS-PIST-R,Pistachio Icecream,Dessert,Regular,11.72
+it20,BEVE-CC-R33,Coca Cola,Beverage,33cl,19.95
