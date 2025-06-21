@@ -1,4 +1,4 @@
-# Pizzeria Management System
+# My Pizzeria Management System
 
 A full-stack web application for managing a pizzeria's operations including orders, inventory, and customer management.
 
